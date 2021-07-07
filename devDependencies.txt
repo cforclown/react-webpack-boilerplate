@@ -1,0 +1,1 @@
+npm install @babel/core babel-eslint babel-loader babel-preset-react-app css-loader cssnano eslint eslint-loader eslint-plugin-import eslint-plugin-react html-webpack-plugin jest mini-css-extract-plugin npm-run-all postcss-loader rimraf style-loader webpack webpack-bundle-analyzer webpack-cli webpack-dev-server --save-dev

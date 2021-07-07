@@ -1,0 +1,1 @@
+npm install classnames file-loader file-saver moment node-sass prop-types react react-app-polyfill react-dom react-redux react-router-dom react-toastify recharts redux sass-loader styled-components universal-cookie url-loader
