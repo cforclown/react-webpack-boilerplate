@@ -1,11 +1,11 @@
 # ReactJS + Webpack
 
-GETTING STARTED
+## GETTING STARTED
 
 -   clone this repositories
 -   npm install
 
-DEVELOPMENT
+## DEVELOPMENT
 
 -   npm start STAGING
 -   npm run build-staging PRODUCTION
